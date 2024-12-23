@@ -1,4 +1,9 @@
 Django==3.2.3
 djangorestframework==3.12.4
 django-cors-headers==3.13.0
+<<<<<<< HEAD
 psycopg2-binary==2.9.3
+=======
+python-dotenv==1.0.1
+psycopg2-binary==2.9.3
+>>>>>>> new_version
